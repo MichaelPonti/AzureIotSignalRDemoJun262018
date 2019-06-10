@@ -1,4 +1,4 @@
-# AzureIotSignalRDemoJun262018
+# AzureIotSignalRDemoJun262019
 
 This repo contains the sample code for the Azure IoT Hub, Azure SignalR, Azure Functions and Forge Viewer Plant Dashboard experiment.
 
