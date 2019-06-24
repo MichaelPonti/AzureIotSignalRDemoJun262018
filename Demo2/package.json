@@ -1,0 +1,22 @@
+{
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "demo site for presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8224 -c 0"
+  },
+  "author": "Michael Ponti",
+  "license": "MIT",
+  "dependencies": {
+    "@aspnet/signalr": "^1.1.4",
+    "animate": "^1.0.0",
+    "animate.css": "^3.7.1",
+    "animate.js": "^1.4.1",
+    "jquery": "^3.4.1",
+    "smoothie": "^1.35.0",
+    "three": "^0.105.1",
+    "tween": "^0.9.0"
+  }
+}

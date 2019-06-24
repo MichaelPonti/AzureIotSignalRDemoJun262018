@@ -1,0 +1,70 @@
+#body {
+}
+
+
+#statusGraphRow h4 {
+	text-align: center;
+}
+
+
+
+
+.statusGraphContainer {
+	height: 10em;
+	padding: 1px;
+	box-shadow: 0 0 8px 4px rgba(0, 0, 0, 0.226);
+}
+
+#chartPower {
+	width: 100%;
+	height: 100%;
+}
+
+#chartDefects {
+	width: 100%;
+	height: 100%;
+}
+
+#chartOutput {
+	width: 100%;
+	height: 100%;
+}
+
+#chartAirQuality {
+	width: 100%;
+	height: 100%;
+}
+
+#logoRowColumn {
+	background-color: black;
+}
+
+#titleLine {
+	vertical-align: middle;
+	font-size: 2em;
+	color: white;
+	margin-left: 1em;
+	margin-top: 5px;
+	font-weight: bolder;
+}
+
+#logoImage {
+	width: 220px;
+	height: 70px;
+	margin: 2em 0 2em 2em;
+}
+
+
+#modelRow {
+	flex-direction: column;
+}
+
+#MyViewerDiv {
+}
+
+
+
+#controlPanel {
+	background-color: white;
+}
+
