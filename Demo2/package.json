@@ -14,7 +14,7 @@
     "animate": "^1.0.0",
     "animate.css": "^3.7.1",
     "animate.js": "^1.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "smoothie": "^1.35.0",
     "three": "^0.105.1",
     "tween": "^0.9.0"
